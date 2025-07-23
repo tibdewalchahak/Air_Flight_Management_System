@@ -4,7 +4,7 @@ This project demonstrates a **Air Flight Management System** implemented using *
 - **Linked List Bucketing**
 - **AVL Tree (Self-Balancing BST)**
 
-The goal is to compare how different data structures affect the organization, insertion, and retrieval of flight data — helping you better understand their practical applications in real-world scenarios.
+The goal is to compare how different data structures affect the organization, insertion, and retrieval of flight data — helping you better understand their practical applications in real-world scenarios. It was developed as part of the Data Structures and Program Design II course to strengthen the understanding of core DSA concepts like Linked List, Trees, Algorithms and file handling through a real-world use case.
 
 ---
 
@@ -80,3 +80,6 @@ This project helps solidify understanding of:
 - How different data structures impact performance
 - Trade-offs between simplicity and scalability
 - Real-world structuring of data (like scheduling systems)
+
+## 📚 Academic Context
+This project was completed as part of the "Data Structures and Program Design II" course in the 2nd year of B.Tech in Computer Science and Engineering.
